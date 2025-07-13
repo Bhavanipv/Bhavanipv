@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhavanipv
+- 👋 Hi, I’m @Bhavani
 - 👀 I’m interested in Exploring new things 
 - 🌱 I’m currently learning python and electronics.
 
